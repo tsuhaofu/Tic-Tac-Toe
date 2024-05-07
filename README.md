@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
 
+The environment is an n×n grid, the rules are that you may place a piece on any unoccupied square, and the goal is to get k of your pieces in a row.
 Cmd line instructions: python ttt.py n k [x] or python ttt.py n k [o]  - if x, my ai go first, if o my ai go second.
 It will automically create, write my moves into xmoves.txt or omoves.txt(seperated by \n).
 Also, read the opponent's moves from xmoves.txt or omoves.txt.
